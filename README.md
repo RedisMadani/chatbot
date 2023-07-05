@@ -34,7 +34,7 @@ To install and run the chatbot application, follow these steps:
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/chatbot.git
+   git clone https://github.com/RedisMadani/chatbot-app.git
    ```
 
 2. Open the project in Visual Studio.
