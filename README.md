@@ -1,5 +1,3 @@
-If you want to add an image section header to the GitHub README, you can use a suitable section title like "Screenshots" or "Application Preview." This section will provide visual representation of the chatbot application. Here's an updated version of the README with the added image section:
-
 # Chatbot Application
 
 This repository contains the source code for a chatbot application built using Visual Studio. The application utilizes the OpenAI API to generate responses and provide an interactive chat experience.
