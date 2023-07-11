@@ -1,5 +1,7 @@
 # Chatbot Application
 
+![chatbot_app](https://github.com/RedisMadani/chatbot-app/assets/136177376/66277c2c-cd72-470a-ab62-3dc2048db284)
+
 This repository contains the source code for a chatbot application built using Visual Studio. The application utilizes the OpenAI API to generate responses and provide an interactive chat experience.
 
 ## Table of Contents
